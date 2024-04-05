@@ -3,7 +3,7 @@
 
 |	Name	|	Email	|
 |---------------|---------------|
-|Sheng-Han Yueh |syueh@mail.yu.edu|
+|Nivetha Sivakumar |nsivakum@mail.yu.edu|
 
 
 **Points: 10**  
