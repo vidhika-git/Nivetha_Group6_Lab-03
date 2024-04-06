@@ -4,7 +4,7 @@
 |	Name	|	Email	|
 |---------------|---------------|
 |Nivetha Sivakumar |nsivakum@mail.yu.edu|
-|                  |                    |
+|vidhika jain     | vjain2@mail.yu.edu  |
 |                  |                    |
 |                  |                    |
 
